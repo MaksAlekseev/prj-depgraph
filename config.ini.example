@@ -1,6 +1,0 @@
-[main]
-package_name = org.apache.commons:commons-lang3:3.12.0
-repo_url = https://repo1.maven.org/maven2/
-test_repo_mode = false
-ascii_tree = true
-filter_substring =
